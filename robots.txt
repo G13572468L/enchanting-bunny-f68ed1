@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enchanting-bunny-f68ed1.netlify.app/sitemap.xml
